@@ -16,7 +16,7 @@
 
      implementation 'com.github.G452:GTXweb:0.0.3'
     //androidx 用户
-     implementation 'com.github.G452:GTXweb:0.0.4'
+     implementation 'com.github.G452:GTXweb:0.0.5'
      
 3、最后Sync Now搞定     
 
