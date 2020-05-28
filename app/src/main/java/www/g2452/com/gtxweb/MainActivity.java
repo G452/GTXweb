@@ -1,9 +1,10 @@
 package www.g2452.com.gtxweb;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.KeyEvent;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.tencent.smtt.sdk.WebView;
 

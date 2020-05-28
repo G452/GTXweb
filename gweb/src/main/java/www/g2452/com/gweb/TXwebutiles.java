@@ -1,9 +1,6 @@
 package www.g2452.com.gweb;
 
 import android.content.Context;
-import android.content.Intent;
-import android.util.Log;
-import android.view.View;
 
 import com.tencent.smtt.export.external.interfaces.JsResult;
 import com.tencent.smtt.sdk.CookieSyncManager;
@@ -13,8 +10,6 @@ import com.tencent.smtt.sdk.WebView;
 import com.tencent.smtt.sdk.WebViewClient;
 
 import java.net.URL;
-import java.security.DigestInputStream;
-import java.util.concurrent.atomic.LongAdder;
 
 /**
  * 作者：G
