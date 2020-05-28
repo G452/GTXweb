@@ -15,6 +15,8 @@
 2、主model的build中    
 
      implementation 'com.github.G452:GTXweb:0.0.3'
+    //androidx 用户
+     implementation 'com.github.G452:GTXweb:0.0.4'
      
 3、最后Sync Now搞定     
 
