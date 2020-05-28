@@ -1,4 +1,4 @@
-package www.g2452.com.gweb;
+package www.g2452.com.gtxweb;
 
 import android.app.Application;
 import android.util.Log;
