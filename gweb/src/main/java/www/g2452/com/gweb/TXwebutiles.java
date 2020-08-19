@@ -20,7 +20,6 @@ import java.net.URL;
 public class TXwebutiles {
 
     private static URL mIntentUrl;
-
     //初始化web
     public static WebSettings initweb(String mHomeUrl, WebView webView, Context context) {
         WebSettings webSetting = webView.getSettings();
