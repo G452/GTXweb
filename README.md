@@ -41,4 +41,7 @@ Activity或Fragment中
  
     TXwebutiles.initweb(mUrl, webView, this);
 
+
+三、新增富文本控件 RechTextView
+
         
