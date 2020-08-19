@@ -53,7 +53,6 @@ public class RechTextView extends RelativeLayout {
         return webView;
     }
 
-
     @SuppressLint("SetJavaScriptEnabled")
     private void initView(Context context) {
         View inflate = View.inflate(context, R.layout.rechtext_layout, null);
