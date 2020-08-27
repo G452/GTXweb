@@ -27,7 +27,7 @@ public class TXwebutiles {
         webSetting.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.NARROW_COLUMNS);
         webSetting.setSupportZoom(false);//支持放大缩小
         webSetting.setBuiltInZoomControls(false); //显示缩放按钮
-        webSetting.setBlockNetworkImage(true);// 把图片加载放在最后来加载渲染
+        webSetting.setBlockNetworkImage(false);// 把图片加载放在最后来加载渲染
 //        webSetting.setUseWideViewPort(true);
         webSetting.setSupportMultipleWindows(false);
         webSetting.setAppCacheEnabled(true);
