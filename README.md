@@ -16,7 +16,7 @@
 
      implementation 'com.github.G452:GTXweb:0.0.3'
     //androidx 用户
-     implementation 'com.github.G452:GTXweb:0.0.5'
+     implementation 'com.github.G452:GTXweb:0.0.9'
      
 3、最后Sync Now搞定     
 
@@ -37,7 +37,7 @@
         //x5内核初始化接口
         QbSdk.initX5Environment(getApplicationContext(), cb);
 
-1、布局内
+2、布局内
 
      <com.tencent.smtt.sdk.WebView
         android:id="@+id/webView"
@@ -47,11 +47,11 @@
         
 Activity或Fragment中
 
- 2、 找到控件
+ 3、 找到控件
  
      webView = (WebView) findViewById(R.id.webView);
    
- 3、  初始化webView
+ 4、  初始化webView
  
     TXwebutiles.initweb(mUrl, webView, this);
 
